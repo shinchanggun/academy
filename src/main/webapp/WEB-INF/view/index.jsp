@@ -6,10 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style>
-header{height:200px;width:100%;border:1px solid black}
+header{height:200px;width:100%;border:1px solid green}
 
-main{display:flex;height:600px;width:100%;border:5px solid red}
-aside{overflow: scroll;height:600px;width:20%;border:1px solid orange}
+main{display:flex;height:600px;width:100%;border:5px solid pink;}
+aside{overflow: scroll;height:600px;width:20%;border:1px solid red}
 #content{height:600px;width:80%;border:1px solid green}
 
 footer{height:100px;width:100%;border:1px solid black}
